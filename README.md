@@ -23,7 +23,7 @@ This repository contains the implementation of a Prostate Cancer Grade Assessmen
    - Fine-tune pre-trained models or train from scratch, depending on the available data and computational resources.
 
 2. **Model Evaluation:**
-   - Evaluate the trained model's performance using validation datasets or cross-validation techniques.
+   - Evaluate the trained model's performance using validation datasets or cross-validation techniques.   
    - Assess metrics such as accuracy, precision, recall, and F1-score to measure the model's effectiveness in grade assessment.
 
 3. **Deployment:**
