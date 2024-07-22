@@ -1,6 +1,6 @@
 # Prostate-Cancer-Grade-Assessment
 
-This repository contains the implementation of a Prostate Cancer Grade Assessment system, aimed at aiding in the accurate grading of prostate cancer tissue samples. The system utilizes machine learning techniques to analyze histopathology images and predict the grade of prostate cancer based on the Gleason score.
+This repository contains the implementation of a Prostate Cancer Grade Assessment system, aimed at aiding in the accurate grading of prostate cancer tissue samples. The system utilizes machine learning techniques to analyze histopathology images and predict the grade of prostate cancer based on the Gleason score. 
     
 **Features:**
 
