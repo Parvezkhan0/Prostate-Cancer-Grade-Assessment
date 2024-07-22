@@ -29,7 +29,7 @@ This repository contains the implementation of a Prostate Cancer Grade Assessmen
 3. **Deployment:**
    - Deploy the trained model as a scalable and efficient system for automated prostate cancer grade assessment.
    - Integrate the system into existing pathology workflows to assist pathologists in clinical decision-making.
-
+                          
 **Dependencies:**
 - Python 3.x
 - TensorFlow or PyTorch
