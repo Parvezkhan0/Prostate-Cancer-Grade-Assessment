@@ -8,7 +8,7 @@ This repository contains the implementation of a Prostate Cancer Grade Assessmen
    - Utilizes deep learning models to analyze digitized histopathology images of prostate tissue samples.
    - Extracts relevant features from the images to characterize the morphology and structure of cancerous tissue.
 
-2. **Gleason Score Prediction:**
+2. **Gleason Score Prediction:** 
    - Predicts the Gleason score of prostate cancer tissue samples, which is a crucial factor in determining cancer aggressiveness and treatment decisions.
    - Employs convolutional neural networks (CNNs) or other deep learning architectures for accurate grade assessment.
 
