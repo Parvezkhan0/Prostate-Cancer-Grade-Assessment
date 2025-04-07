@@ -36,4 +36,3 @@ This repository contains the implementation of a Prostate Cancer Grade Assessmen
 - OpenCV for image processing
 - Scikit-learn for model evaluation
 - Matplotlib and Seaborn for visualization
-
